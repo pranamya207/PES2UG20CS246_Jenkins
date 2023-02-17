@@ -3,8 +3,6 @@
 using namespace std;
 
 int main(void) {
-  cout << "Hello, PES2UG20CS246\n";
-  cout << "Hello, Jenkins\n";
-  cout << "I have successfully built and run\n";
+  cout << "THIS IS PES2UG20CS246";
   return 0;
 }
