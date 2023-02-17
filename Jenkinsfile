@@ -18,7 +18,7 @@ pipeline {
             echo 'Pipeline has been completed.'
         }
         failure {
-            echo 'Oops! Pipeline has failed'
-        }
+            echo 'Oops! Pipeline has failed.'
+        }
     }
 }
